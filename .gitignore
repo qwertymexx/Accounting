@@ -1,0 +1,8 @@
+*.class
+*.log
+.idea/*
+target
+project/target/*
+*.iml
+src/main/resources/google_secrets.json
+src/main/resources/google_secrets.json
